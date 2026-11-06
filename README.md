@@ -4,7 +4,7 @@
 
 - 🤖 I run **N.E.O.S.**, a self-hosted AI operations platform: LangGraph and Claude agents, n8n automation, a voice assistant, a ticket desk and a security centre, live 24/7 on my own Ubuntu server.
 - 🛠️ Through my own venture I deliver paid automation to clients: AI report pipelines, a marketing content studio, WhatsApp and voice agents.
-- 📡 Day job: Tier 1 Support Engineer at an ISP (PRTG, MikroTik, Fortinet, SLA and RFO reporting).
+- 💼 Currently: **Systems & AI Automation Integration Specialist**, connecting business systems with AI agents and automation. Background in ISP network operations (PRTG, MikroTik, Fortinet).
 - 📫 [LinkedIn](https://www.linkedin.com/in/jean-mouton-2016a1232)
 
 ## Featured projects
